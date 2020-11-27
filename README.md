@@ -10,7 +10,7 @@
 ### About me
 I'm a backend, frontend and mobile developer, currently working at personal projects and searching for an opportunity as a trainee 😁.
 <ul>
-<li> <strong>Learning</strong> 📖 - ReactJS, React Native, NodeJS (with backend technologies) and Typescript. </li>
+<li> <strong>Learning</strong> 📖 - ReactJS, React Native, NodeJS (with supplementary backend technologies) and Typescript. </li>
 <li> <strong>Courses</strong> 🗃 - DevReactJS, GoStack 11.0 and many others.</li>
 
 </ul>
