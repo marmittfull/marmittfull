@@ -1,4 +1,3 @@
-[![Edit README intro.gif (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/readme-introgif-forked-bemhx?fontsize=14&hidenavigation=1&theme=dark)
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-marmitt-762bb61b0/)](https://www.linkedin.com/in/tiago-marmitt-762bb61b0/)
