@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Tiago Marmitt" title="👋 Hi there! I'm Tiago Marmitt"/>]
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Tiago Marmitt)" title="👋 Hi there! I'm (Tiago Marmitt)"/>]
 
 <br>
 
