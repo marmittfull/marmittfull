@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tiago Marmitt</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
+
 <br>
+
 - 🔭 I’m currently searching for an opportunity as a trainee.
 
 - 🌱 I’m currently learning **ReactJS, React Native, NodeJS & Typescript**
