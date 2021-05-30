@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tiago Marmitt</h1>
-<h3 align="center">A passionate back-end developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 <br>
 
 - 🔭 I’m currently working at W2ABrasil as a back-end developer.
 
-- 🌱 I’m currently learning **PL/SQL & Python**
+- 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **tiago-marmitt@educar.rs.gov.br**
+- 📫 How to reach me **tiagomarmittt@gmail.com**
 
 ## Connect with me:
 
