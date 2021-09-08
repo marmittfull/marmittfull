@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working at W2ABrasil as a back-end developer.
+- 🔭 I’m currently working at W2ABrasil as a full stack developer.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently studying ReactJS and NodeJS
 
 - 📫 How to reach me **tiagomarmittt@gmail.com**
 
