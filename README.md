@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at W2ABrasil as a full stack developer.
 
-- 🌱 I’m currently studying NodeJS and PL/SQL.
-
 - 📫 How to reach me **tiagomarmittt@gmail.com**
 
 ## Connect with me:
