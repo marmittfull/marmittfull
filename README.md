@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working at W2ABrasil as a full stack developer.
+- 🔭 I’m currently working at W2ABrasil as a Mid-Level Software Engineer.
 
 - 📫 How to reach me **tiagomarmittt@gmail.com**
 
